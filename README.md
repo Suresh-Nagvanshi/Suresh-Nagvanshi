@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Suresh
 
-<!--
-**Suresh-Nagvanshi/Suresh-Nagvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java, Spring Boot, REST APIs, and scalable applications.
 
-Here are some ideas to get you started:
+Currently building ERP systems and AI-powered solutions. Interested in backend development, AI, and system design, with a focus on creating real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+
+### Backend Technologies
+- Spring Boot
+- REST APIs
+- Servlets
+- JDBC
+
+### Database
+- MySQL
+
+### Tools and Technologies
+- Git
+- GitHub
+- Docker
+- VS Code
+- IntelliJ IDEA
+
+## Featured Projects
+
+### Varsity Vibe
+College event management platform with coordinator management, profile handling, and authentication.
+
+### PetConnect
+Platform focused on pet adoption and pet-related services.
+
+### AI Flood Framework
+Explainable flood segmentation using U-Net and AI techniques.
+
+### ERP System
+Scalable backend architecture designed for enterprise workflows.
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi&show_icons=true)
+
+## Contact
+
+Email: iamsureshnagvanshi@gmail.com
