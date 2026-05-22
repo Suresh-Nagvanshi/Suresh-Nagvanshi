@@ -43,12 +43,12 @@ Explainable flood segmentation using U-Net and AI techniques.
 Scalable backend architecture designed for enterprise workflows.
 
 ## GitHub Statistics
-
 ## GitHub Statistics
 
-## GitHub Statistics
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suresh-Nagvanshi&theme=github_dark" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi)
 ## Contact
 
 Email: iamsureshnagvanshi@gmail.com
