@@ -14,24 +14,25 @@ Currently building ERP systems and AI-powered solutions. Interested in backend d
 
 ### Backend Technologies
 - Spring Boot
+- Node.js
 - REST APIs
 - Servlets
 - JDBC
 
 ### Database
 - MySQL
+- MongoDB
+- PostgreSql
 
 ### Tools and Technologies
 - Git
 - GitHub
 - Docker
+- Postman
 - VS Code
 - IntelliJ IDEA
 
 ## Featured Projects
-
-### Varsity Vibe
-College event management platform with coordinator management, profile handling, and authentication.
 
 ### PetConnect
 Platform focused on pet adoption and pet-related services.
