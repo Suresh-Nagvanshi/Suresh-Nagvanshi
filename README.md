@@ -46,8 +46,9 @@ Scalable backend architecture designed for enterprise workflows.
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi&show_icons=true&hide_border=true&theme=transparent)
+## GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi)
 ## Contact
 
 Email: iamsureshnagvanshi@gmail.com
