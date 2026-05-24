@@ -9,6 +9,9 @@
   <a href="mailto:iamsureshnagvanshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-iamsureshnagvanshi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://linkedin.com/in/suresh-nagvanshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-suresh--nagvanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/Suresh-Nagvanshi">
     <img src="https://img.shields.io/badge/GitHub-Suresh--Nagvanshi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -104,7 +107,8 @@
 
 ## Contact
 
-**Email:** [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com)
+**Email:** [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com)  
+**LinkedIn:** [linkedin.com/in/suresh-nagvanshi](https://linkedin.com/in/suresh-nagvanshi)
 
 Feel free to reach out for collaboration, research discussions, or open-source contributions.
 
