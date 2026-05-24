@@ -19,10 +19,11 @@
 ## About Me
 
 - **MCA Student** with a focus on backend architecture and AI applications
-- Specializing in **Java, Spring Boot, REST APIs**, and scalable enterprise systems
-- Exploring **Geospatial AI**, flood prediction, and satellite image analysis
-- Currently building: **AI Flood Segmentation Framework** and **ERP System**
-- Open to collaboration on AI/ML, backend systems, and open-source projects
+- Specializing in **Node.js, Java, Spring Boot, REST APIs**, and scalable enterprise systems
+- Working as an **intern Backend Lead** on an enterprise-grade ERP solution
+- Responsible for GST invoicing, tax engine development, E-Way Bill integration, database schema design, and backend API architecture
+- Collaborating in an Agile workflow across development, code reviews, optimization, and deployment
+- Open to collaboration on backend systems, ERP engineering, and applied machine learning
 
 ---
 
@@ -38,8 +39,8 @@
 
 ### Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
@@ -63,6 +64,7 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -75,9 +77,11 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[AI Flood Framework](https://github.com/Suresh-Nagvanshi)** | Explainable flood segmentation using U-Net, Attention U-Net and DeepLabV3+ on multi-channel satellite imagery | Python, TensorFlow, Google Earth Engine |
-| **[PetConnect](https://github.com/Suresh-Nagvanshi)** | Full-stack platform for pet adoption and pet-related services | Java, Spring Boot, MySQL |
-| **[ERP System](https://github.com/Suresh-Nagvanshi)** | Scalable backend architecture designed for enterprise resource planning workflows | Spring Boot, REST APIs, PostgreSQL |
+| **[AI Web Forensic System for Detecting Manipulated Images](https://github.com/Suresh-Nagvanshi/AI-Forensic-Project)** | Deep learning image forensics system to detect manipulated, GAN-generated, and deepfake images using YOLOv8 and EfficientNetB0, achieving 97.6% validation accuracy | Python, TensorFlow, Flask, Spring Boot |
+| **[PetConnect](https://github.com/Suresh-Nagvanshi/PetConnect)** | Full-stack pet marketplace platform with listings, user accounts, veterinary service discovery, and AI-based symptom analysis | MongoDB, Express.js, React.js, Node.js |
+| **[Fake Financial News Detection](https://github.com/Suresh-Nagvanshi/fake-financial-news-prediction)** | DistilBERT-based NLP classification system for detecting fake financial news, achieving 94.2% accuracy on a 50K labeled dataset | Python, DistilBERT, Scikit-learn |
+| **Interactive Sports Analytics Dashboard** | Streamlit-based FIFA World Cup analytics dashboard with dynamic filters, Plotly 3D visualizations, and geospatial stadium mapping | Python, Streamlit, Plotly, Geopy |
+| **Varsity Vibe** | Web-based inter-college event management system with registration workflows, role-based access control, and MVC backend architecture | Java, JSP, Servlets, Spring Boot, MySQL |
 
 ---
 
