@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Suresh Nagvanshi 👋</h1>
+<h1 align="center">Suresh Nagvanshi</h1>
 
 <p align="center">
-  <b>Backend Developer · AI/ML Enthusiast · MCA Scholar</b><br/>
+  <b>Backend Developer &middot; AI/ML Enthusiast &middot; MCA Scholar</b><br/>
   Building scalable systems, ERP platforms, and AI-powered geospatial solutions
 </p>
 
@@ -16,17 +16,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **MCA Student** with a passion for backend architecture and AI applications
-- 💼 Focused on **Java · Spring Boot · REST APIs** and scalable enterprise systems
-- 🌍 Exploring **Geospatial AI**, flood prediction, and satellite image analysis
-- 🔭 Currently building: **AI Flood Segmentation Framework** & **ERP System**
-- 🤝 Open to collaboration on AI/ML, backend systems, and open-source projects
+- **MCA Student** with a focus on backend architecture and AI applications
+- Specializing in **Java, Spring Boot, REST APIs**, and scalable enterprise systems
+- Exploring **Geospatial AI**, flood prediction, and satellite image analysis
+- Currently building: **AI Flood Segmentation Framework** and **ERP System**
+- Open to collaboration on AI/ML, backend systems, and open-source projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -71,17 +71,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[AI Flood Framework](https://github.com/Suresh-Nagvanshi)** | Explainable flood segmentation using U-Net, Attention U-Net & DeepLabV3+ on multi-channel satellite imagery | Python · TensorFlow · Google Earth Engine |
-| **[PetConnect](https://github.com/Suresh-Nagvanshi)** | Full-stack platform for pet adoption and pet-related services | Java · Spring Boot · MySQL |
-| **[ERP System](https://github.com/Suresh-Nagvanshi)** | Scalable backend architecture designed for enterprise resource planning workflows | Spring Boot · REST APIs · PostgreSQL |
+| **[AI Flood Framework](https://github.com/Suresh-Nagvanshi)** | Explainable flood segmentation using U-Net, Attention U-Net and DeepLabV3+ on multi-channel satellite imagery | Python, TensorFlow, Google Earth Engine |
+| **[PetConnect](https://github.com/Suresh-Nagvanshi)** | Full-stack platform for pet adoption and pet-related services | Java, Spring Boot, MySQL |
+| **[ERP System](https://github.com/Suresh-Nagvanshi)** | Scalable backend architecture designed for enterprise resource planning workflows | Spring Boot, REST APIs, PostgreSQL |
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="Suresh's GitHub Stats"/>
@@ -94,10 +94,11 @@
 
 ---
 
-## 📫 Get In Touch
+## Contact
 
-- 📧 **Email:** [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com)
-- 💬 Feel free to reach out for collaboration, research, or just a tech chat!
+**Email:** [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com)
+
+Feel free to reach out for collaboration, research discussions, or open-source contributions.
 
 ---
 
