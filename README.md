@@ -88,12 +88,16 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="Suresh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Nagvanshi&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Nagvanshi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160" alt="Suresh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Nagvanshi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Nagvanshi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Suresh-Nagvanshi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suresh-Nagvanshi&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 ---
