@@ -213,16 +213,6 @@ Android weather forecasting application with real-time weather data, location-ba
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suresh-Nagvanshi&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
