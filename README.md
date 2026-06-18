@@ -216,9 +216,7 @@ Android weather forecasting application with real-time weather data, location-ba
 ## GitHub Trophies
 
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Suresh-Nagvanshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Nagvanshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
