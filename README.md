@@ -25,7 +25,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const suresh: BackendEngineer = {
@@ -45,9 +45,9 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -60,21 +60,21 @@ const suresh: BackendEngineer = {
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -84,7 +84,7 @@ const suresh: BackendEngineer = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -96,22 +96,21 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
-<td width="60" align="center"><img src="https://img.shields.io/badge/🏢-Adrelia-7c3aed?style=flat-square" /></td>
 <td>
 
 **Technical Lead · Backend Developer** &nbsp;|&nbsp; *Adrelia*
 
 > Building a production-grade enterprise ERP platform from the ground up.
 
-- 🔧 **ERP Backend** — Designed and implemented core modules: inventory, shipment workflows, and multi-entity accounting using **NestJS + PostgreSQL + Prisma ORM**
-- 🧾 **GST Invoicing System** — End-to-end GST-compliant invoice generation, tax calculations, and E-Way Bill integration
-- 🔐 **Auth & Access Control** — JWT-based authentication with fine-grained **RBAC** and **Multi-Tenant Architecture** supporting isolated data per client
-- 🤖 **AI Integration** — Embedded **Gemini API** for intelligent features including smart search, data summarization, and automated recommendations
-- 📦 **Inventory & Shipment** — Real-time stock tracking, PO management, and shipment workflow automation
+- **ERP Backend** — Designed and implemented core modules: inventory, shipment workflows, and multi-entity accounting using **NestJS + PostgreSQL + Prisma ORM**
+- **GST Invoicing System** — End-to-end GST-compliant invoice generation, tax calculations, and E-Way Bill integration
+- **Auth & Access Control** — JWT-based authentication with fine-grained **RBAC** and **Multi-Tenant Architecture** supporting isolated data per client
+- **AI Integration** — Embedded **Gemini API** for intelligent features including smart search, data summarization, and automated recommendations
+- **Inventory & Shipment** — Real-time stock tracking, PO management, and shipment workflow automation
 
 </td>
 </tr>
@@ -119,13 +118,13 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 AI Forensic Platform
+### AI Forensic Platform
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/AI-Forensic-Project)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.6%25-22c55e?style=flat-square)
 
@@ -136,7 +135,7 @@ Deepfake and manipulated image detection platform using **YOLOv8**, **EfficientN
 </td>
 <td width="50%" valign="top">
 
-### 🐾 PetConnect
+### PetConnect
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/PetConnect)
 
 MERN-based pet marketplace with authentication, pet listings, veterinary services, and **AI-powered health insights**.
@@ -148,7 +147,7 @@ MERN-based pet marketplace with authentication, pet listings, veterinary service
 <tr>
 <td width="50%" valign="top">
 
-### 📰 Fake Financial News Detection
+### Fake Financial News Detection
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/fake-financial-news-prediction)
 ![Accuracy](https://img.shields.io/badge/Accuracy-94.2%25-22c55e?style=flat-square)
 
@@ -159,7 +158,7 @@ NLP classification system using **DistilBERT** to detect fake vs real financial 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 GeoAI Bihar Flood Framework
+### GeoAI Bihar Flood Framework
 
 Explainable **U-Net** flood segmentation using geospatial satellite imagery. Built with explainability layers for disaster management decision support.
 
@@ -170,7 +169,7 @@ Explainable **U-Net** flood segmentation using geospatial satellite imagery. Bui
 <tr>
 <td width="50%" valign="top">
 
-### 🐶 Pet Passport
+### Pet Passport
 
 Digital pet passport system with **QR-based verification**, vaccination tracking, and health timeline management.
 
@@ -179,7 +178,7 @@ Digital pet passport system with **QR-based verification**, vaccination tracking
 </td>
 <td width="50%" valign="top">
 
-### 🌤️ SkyCast
+### SkyCast
 
 Android weather forecasting application with real-time weather data, location-based forecasts, and clean Material UI.
 
@@ -191,7 +190,7 @@ Android weather forecasting application with real-time weather data, location-ba
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -214,7 +213,7 @@ Android weather forecasting application with real-time weather data, location-ba
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -224,18 +223,18 @@ Android weather forecasting application with real-time weather data, location-ba
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
 
 | Channel | Link |
 |---------|------|
-| 📧 Email | [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/suresh-nagvanshi](https://linkedin.com/in/suresh-nagvanshi) |
-| 🌐 Portfolio | [suresh-nagvanshi-portfolio.vercel.app](https://suresh-nagvanshi-portfolio.vercel.app) |
-| 🐙 GitHub | [github.com/Suresh-Nagvanshi](https://github.com/Suresh-Nagvanshi) |
+| Email | [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com) |
+| LinkedIn | [linkedin.com/in/suresh-nagvanshi](https://linkedin.com/in/suresh-nagvanshi) |
+| Portfolio | [suresh-nagvanshi-portfolio.vercel.app](https://suresh-nagvanshi-portfolio.vercel.app) |
+| GitHub | [github.com/Suresh-Nagvanshi](https://github.com/Suresh-Nagvanshi) |
 
-> 💬 Open to backend engineering roles, open-source collaboration, and AI research discussions.
+Open to backend engineering roles, open-source collaboration, and AI research discussions.
 
 </div>
 
