@@ -26,7 +26,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```typescript
 const suresh: BackendEngineer = {
@@ -47,7 +47,7 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend & Frameworks
 <p>
@@ -101,13 +101,13 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <table width="100%">
 <tr>
 <td>
 
-### 🏢 Backend Developer (Internship) &nbsp;·&nbsp; Adrelia &nbsp;|&nbsp; `May 2026 – July 2026`
+### Backend Developer (Internship) &nbsp;·&nbsp; Adrelia &nbsp;|&nbsp; `May 2026 – July 2026`
 
 > Built and shipped production-grade enterprise ERP backend modules over a 3-month internship.
 
@@ -123,13 +123,13 @@ const suresh: BackendEngineer = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ SentinelAI
+### SentinelAI
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -141,7 +141,7 @@ Enterprise **Insider-Threat & DLP Detection Platform**. Stateless JWT (rotating 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 AI Web Forensic System
+### AI Web Forensic System
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/AI-Forensic-Project)
 ![Accuracy](https://img.shields.io/badge/Accuracy-97.6%25-22c55e?style=flat-square)
 
@@ -154,7 +154,7 @@ Deepfake & manipulated image detection using **YOLOv8 + EfficientNetB0 + Grad-CA
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 AI AppSec Platform
+### AI AppSec Platform
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1A1A1A?style=flat-square)
 
@@ -165,7 +165,7 @@ AI-powered **Application Security Scanner** layering contextual AI reasoning on 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Fake Financial News Detection
+### Fake Financial News Detection
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/fake-financial-news-prediction)
 ![Accuracy](https://img.shields.io/badge/Accuracy-94.2%25-22c55e?style=flat-square)
 ![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.96-3b82f6?style=flat-square)
@@ -179,7 +179,7 @@ NLP classifier using **DistilBERT** transfer learning on 50K labeled financial n
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetConnect
+### PetConnect
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Suresh-Nagvanshi/PetConnect)
 
 Full-stack MERN pet adoption & healthcare marketplace. Load-tested for **1,000+ concurrent users**. AI symptom analysis via ML models.
@@ -189,7 +189,7 @@ Full-stack MERN pet adoption & healthcare marketplace. Load-tested for **1,000+ 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Varsity Vibe
+### Varsity Vibe
 
 Inter-college **event management platform** built on Java, Spring Boot, JSP/Servlets, and MySQL. Full MVC architecture with role-based access for organisers, coordinators, and students.
 
@@ -201,13 +201,13 @@ Inter-college **event management platform** built on Java, Spring Boot, JSP/Serv
 
 ---
 
-## 📰 Publication
+## Publication
 
 <table width="100%">
 <tr>
 <td>
 
-### 📄 Multimodal GeoAI Framework for Flood Mapping Using PlanetScope, Sentinel-1 and Sentinel-2 Imagery
+### Multimodal GeoAI Framework for Flood Mapping Using PlanetScope, Sentinel-1 and Sentinel-2 Imagery
 
 **IEEE ICONICA — August 2026** &nbsp;·&nbsp; ![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)
 
@@ -224,7 +224,7 @@ Inter-college **event management platform** built on Java, Spring Boot, JSP/Serv
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
@@ -233,7 +233,7 @@ Inter-college **event management platform** built on Java, Spring Boot, JSP/Serv
 
 ---
 
-## 🏅 Certifications & Training
+## Certifications & Training
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
@@ -244,7 +244,7 @@ Inter-college **event management platform** built on Java, Spring Boot, JSP/Serv
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -267,16 +267,16 @@ Inter-college **event management platform** built on Java, Spring Boot, JSP/Serv
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
 | Channel | Link |
 |---------|------|
-| 📧 Email | [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/suresh-nagvanshi](https://linkedin.com/in/suresh-nagvanshi) |
-| 🌐 Portfolio | [suresh-nagvanshi-portfolio.vercel.app](https://suresh-nagvanshi-portfolio.vercel.app) |
-| 🐙 GitHub | [github.com/Suresh-Nagvanshi](https://github.com/Suresh-Nagvanshi) |
+| Email | [iamsureshnagvanshi@gmail.com](mailto:iamsureshnagvanshi@gmail.com) |
+| LinkedIn | [linkedin.com/in/suresh-nagvanshi](https://linkedin.com/in/suresh-nagvanshi) |
+| Portfolio | [suresh-nagvanshi-portfolio.vercel.app](https://suresh-nagvanshi-portfolio.vercel.app) |
+| GitHub | [github.com/Suresh-Nagvanshi](https://github.com/Suresh-Nagvanshi) |
 
 *Open to backend engineering roles, open-source collaboration, and AI/ML research discussions.*
 
